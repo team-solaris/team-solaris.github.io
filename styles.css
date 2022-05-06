@@ -1,0 +1,53 @@
+* {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+body{
+
+  background: #0160BE;
+
+}
+
+.center{
+
+  position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+  text-align: center;
+
+}
+
+.center h1{
+
+  color: white;
+
+  font-family: sans-serif;
+
+  margin-bottom: 1px;
+
+  font-weight: bold;
+
+}
+
+.center p{
+
+  color: white;
+
+  font-family: sans-serif;
+
+  font-weight: bold;
+
+  font-size: 17px;
+
+  margin: 0;
+
+}
